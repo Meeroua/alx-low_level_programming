@@ -2,7 +2,7 @@
 
 /**
  * main : Entry point
- * Description : This program prints the sizes (in bytes) of different data types
+ * Description : This program prints the sizes of different data types
  * Return : 0
  **/
 int main(void)
