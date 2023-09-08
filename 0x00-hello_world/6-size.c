@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- *  * main : Entry point
- *   * Description : This program prints the sizes (in bytes) of different data types
- *    * Return : 0
- *     */
+ * main : Entry point
+ * Description : This program prints the sizes (in bytes) of different data types
+ * Return : 0
+ **/
 int main(void)
 {
 	int a;
