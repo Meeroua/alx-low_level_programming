@@ -2,6 +2,7 @@
 /**
  ** _islower - checks for lowercase character
  ** Description: 0x02. C - task 3
+ ** @c: input character
  ** Return: 1 if c is lowercase; 0 otherwise
  */
 
