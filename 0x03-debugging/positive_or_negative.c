@@ -2,9 +2,8 @@
 #include <stdio.h>                                                                            
 
 /**
- *  * main - test if number n is positive or negative.
- *   * @n: input number
- *    * Return: Always 0 (Success)
+ * function - test if number n is positive or negative.
+ * @n: input number
  */
 
 void positive_or_negative(int n)
