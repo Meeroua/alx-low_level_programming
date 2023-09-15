@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  *  mul - multiplies two integers
  *  @x: input number
  *  @y: input number
