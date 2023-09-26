@@ -2,7 +2,6 @@
 /**
  *  print_rev - reverse string
  *   @s: pointer to a string variable
- *    @lenght : string lenght
  */
 void print_rev(char *s)
 {
