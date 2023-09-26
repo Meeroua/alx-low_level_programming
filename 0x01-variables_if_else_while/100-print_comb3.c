@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- *  main - prints all possible different 
- *   combinations of two digits.
- *    Return: 0
+ *  main - prints all possible different combinations of two digits.
+ *  Return: 0
  */
 int main(void)
 {
