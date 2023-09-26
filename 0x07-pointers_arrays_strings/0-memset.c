@@ -1,13 +1,13 @@
 #include "main.h"
 /**
- *  * _memset - fills memory with a constant byte,
- *   * @s: the address of memory to print
- *    * @b: constant byte.
- *     * @n: the size of the memory to print
- *      *
- *       * Return: the pointer to dest.
- *        */
-char *_memset(char *s, char b, unsigned int n)
+ *  _memset - fills memory with a constant byte,
+ *   @s: the address of memory to print
+ *    @b: constant byte.
+ *     @n: the size of the memory to print
+ *
+ *      Return: the pointer to dest.
+ */
+char_memset(chars, char b, unsigned int n)
 {
 	unsigned int i;
 
