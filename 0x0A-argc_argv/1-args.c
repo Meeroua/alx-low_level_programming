@@ -1,0 +1,12 @@
+#include <stdio.h>
+/**
+ *  main - task 1
+ *   @argc: number of arguments
+ *    @argv: array containing arguments
+ *     Return: 0
+ */
+int main(int argc, char *argv[])
+{
+	printf("%d\n", argc - 1);
+	return (0);
+}
